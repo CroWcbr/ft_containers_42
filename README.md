@@ -7,7 +7,7 @@ Containers is a School 42 project. Create your own vector/stack/map/set and Red-
 
 ## How to use
 - include header to your file
-- [tester](https://github.com/BillyKlebitz/FT_Containers/wiki) 
+- [tester](https://github.com/divinepet/ft_containers-unit-test) 
 
 ## Container
 - vector (very primitive code, was written before the webserver)
