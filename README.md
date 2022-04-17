@@ -10,7 +10,7 @@ Containers is a School 42 project. Create your own vector/stack/map/set and Red-
 - [tester](https://github.com/BillyKlebitz/FT_Containers/wiki) 
 
 ## Container
-- vector (very primitive code, was written before the web server)
+- vector (very primitive code, was written before the webserver)
 - stack (based on vector)
 - map (based on Red-Black Tree, clean and understandable code, was written after webserv)
 - set (based on map)
