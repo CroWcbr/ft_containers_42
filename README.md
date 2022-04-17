@@ -1,5 +1,5 @@
 # ft_containers_42
-Creat your vector/stack/map/set
+Creat your own vector/stack/map/set
 
 ## Info
 Containers is a School 42 project. Create your own vector/stack/map/set and Red-Black Tree and iterators.
